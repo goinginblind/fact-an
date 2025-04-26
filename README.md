@@ -1,4 +1,3 @@
-```markdown
 # Factor Analysis Tool
 
 This project provides a simple script for performing factor analysis on a dataset stored in CSV format. It uses Python, NumPy, pandas, matplotlib, and factor_analyzer.
@@ -53,4 +52,4 @@ This project provides a simple script for performing factor analysis on a datase
 ## License
 
 This project is provided as-is for educational purposes.
-```
+
